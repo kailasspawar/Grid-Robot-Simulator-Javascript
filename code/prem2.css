@@ -1,0 +1,29 @@
+main {
+    text-align: center;
+}
+label {
+    font-weight: bold;
+}
+#command {
+    font-size: 1em;
+}
+#coin {
+  font-size: 1em;
+}
+#report {
+    height: 20px;
+    color: blue;
+}
+#report span {
+    padding-right: 10px;
+    color:blue;
+}
+#report #error {
+    color:blue;
+    font-size:1.5em;
+}
+.grid{
+    background-image: url("rr1.jpg");
+}
+
+

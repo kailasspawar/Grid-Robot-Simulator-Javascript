@@ -9,3 +9,7 @@ and click on "Readfile" button it will loads the file and working grid will
 loaded on your browser window.
 The grid dimentions coins position and robot action depends on file instructions 
 so we will customize the Input file.
+
+/ File prem1.html is the renderor for this project.  
+
+//Run prem1.html on your browser .......................//
